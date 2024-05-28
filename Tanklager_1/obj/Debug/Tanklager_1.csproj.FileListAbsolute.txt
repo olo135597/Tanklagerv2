@@ -1,0 +1,6 @@
+C:\Users\User\RiderProjects\Tanklagerv2\Tanklager_1\bin\Debug\Tanklager_1.exe
+C:\Users\User\RiderProjects\Tanklagerv2\Tanklager_1\bin\Debug\Tanklager_1.pdb
+C:\Users\User\RiderProjects\Tanklagerv2\Tanklager_1\obj\Debug\Tanklager_1.csproj.AssemblyReference.cache
+C:\Users\User\RiderProjects\Tanklagerv2\Tanklager_1\obj\Debug\Tanklager_1.csproj.CoreCompileInputs.cache
+C:\Users\User\RiderProjects\Tanklagerv2\Tanklager_1\obj\Debug\Tanklager_1.exe
+C:\Users\User\RiderProjects\Tanklagerv2\Tanklager_1\obj\Debug\Tanklager_1.pdb

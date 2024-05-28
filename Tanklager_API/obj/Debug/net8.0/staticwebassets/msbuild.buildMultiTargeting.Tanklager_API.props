@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tanklager_API.props" />
+</Project>

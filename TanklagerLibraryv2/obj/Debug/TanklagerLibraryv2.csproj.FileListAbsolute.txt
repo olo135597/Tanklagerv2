@@ -1,0 +1,6 @@
+C:\Users\Otaka\RiderProjects\Tanklagerv2 (2)\Tanklagerv2\TanklagerLibraryv2\bin\Debug\TanklagerLibraryv2.dll
+C:\Users\Otaka\RiderProjects\Tanklagerv2 (2)\Tanklagerv2\TanklagerLibraryv2\bin\Debug\TanklagerLibraryv2.pdb
+C:\Users\Otaka\RiderProjects\Tanklagerv2 (2)\Tanklagerv2\TanklagerLibraryv2\obj\Debug\TanklagerLibraryv2.csproj.AssemblyReference.cache
+C:\Users\Otaka\RiderProjects\Tanklagerv2 (2)\Tanklagerv2\TanklagerLibraryv2\obj\Debug\TanklagerLibraryv2.csproj.CoreCompileInputs.cache
+C:\Users\Otaka\RiderProjects\Tanklagerv2 (2)\Tanklagerv2\TanklagerLibraryv2\obj\Debug\TanklagerLibraryv2.dll
+C:\Users\Otaka\RiderProjects\Tanklagerv2 (2)\Tanklagerv2\TanklagerLibraryv2\obj\Debug\TanklagerLibraryv2.pdb
